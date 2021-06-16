@@ -1,22 +1,19 @@
 # mochi_electoron
 
-### Electronのインストール
+### Install
 
-Install Node.js
+1. Install [Node.js](https://nodejs.org/ja/)
 
-    URL: https://nodejs.org/ja/
+2. Install Electron and Flask
 
-Install Electron
+install
 
     npm install -g electron
-
-Install Flask
-
     pip install Flask
 
 
 ### Electron
 
-作業ディレクトリの初期化
+Initialize
 
         npm init -y
