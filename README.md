@@ -13,3 +13,10 @@ Install Electron
 Install Flask
 
     pip install Flask
+
+
+### Electron
+
+作業ディレクトリの初期化
+
+        npm init -y
