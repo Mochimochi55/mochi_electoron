@@ -16,7 +16,7 @@ install
 
 Initialize
 
-        npm init -y
+    npm init -y
 
 ### Option
 
