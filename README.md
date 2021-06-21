@@ -17,3 +17,7 @@ install
 Initialize
 
         npm init -y
+
+### Option
+
+    npm i custom-electron-titlebar
